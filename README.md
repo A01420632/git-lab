@@ -10,6 +10,10 @@ Git practice laboratory
 
 ## Contents
 
+### Images
+
+![Place Dauphine](https://raw.githubusercontent.com/A01420632/git-lab/main/place.jpg)
+
 ## References
 
 - [Github documentation](https://docs.github.com/en)
