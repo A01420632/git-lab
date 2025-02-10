@@ -14,6 +14,15 @@ Git practice laboratory
 
 ![Place Dauphine](https://raw.githubusercontent.com/A01420632/git-lab/main/place.jpg)
 
+### Code example
+
+``` python 
+numero1 = float(input("Ingresa el primer número: "))
+numero2 = float(input("Ingresa el segundo número: "))
+resultado = numero1 + numero2
+print("La suma de", numero1, "y", numero2, "es:", resultado)
+```
+
 ## References
 
 - [Github documentation](https://docs.github.com/en)
