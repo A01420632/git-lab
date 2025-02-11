@@ -2,6 +2,7 @@
 
 Git practice laboratory
 
+
 Diego de la Vega
 
 ## Description
@@ -13,7 +14,7 @@ Git practice laboratory
 ### Images
 
 ![Place Dauphine](https://raw.githubusercontent.com/A01420632/git-lab/main/place.jpg)
-
+![Universidad de Navarra](git-lab/navarra.jpg)
 ### Code example
 
 ``` python 
