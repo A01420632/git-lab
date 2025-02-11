@@ -23,6 +23,12 @@ resultado = numero1 + numero2
 print("La suma de", numero1, "y", numero2, "es:", resultado)
 ```
 
+### Lists
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## References
 
 - [Github documentation](https://docs.github.com/en)
