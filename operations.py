@@ -6,3 +6,4 @@ print(a+b)
 # Display the subtraction
 print(a-b)
 # Display multiplication
+print(a*b)
